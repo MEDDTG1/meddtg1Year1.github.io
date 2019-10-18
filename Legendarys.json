@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Recluse",
+        "Type": "Sub Machine Gun",
+        "Description": "SMG unlocked from PVP weapon quest can be hard to get for some players but is by far one of the best legendaries in the game with is increased damage on kill"
+    },
+    {
+        "Name": "MountainTop",
+        "Type": "Grenade Launcher",
+        "Description": "Energy Grenade Launcher earned through a PVP weapon quest has high damage and fires a mini rocket rather then a grenade"
+    },
+    {
+        "Name": "ThreatLevel",
+        "Type": "Shotgun",
+        "Description": "Black Armory Raid Shotgun that has good firerate and damage and with a good roll like trench barrel can easily deal large damage to tougher enemies and bosses"
+    },
+    {
+        "Name": "BlastFurnace",
+        "Type": "Pulse Rifle",
+        "Description": "One of the most solid Pulse Rifles in the game and even better with a good roll. It is collected after using a forge with a quest in black armory"
+    },
+    {
+        "Name": "HammerHead",
+        "Type": "Machine Gun",
+        "Description": "Black Armory Machine Gun that is slightly less powerful then thunderlord and can be used in various activities. It is the first weapon forged in black armory"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Ace Of Spades",
+        "Type": "Hand Cannon",
+        "Description": "Quest Reward Exotic HandCannon that stands out in PVE and PVP as it has consistent high damage even at range. Enemies detonate on criticle kill and reload speed is increased for a short period of time. Reloading after a kill grants enhanced bullets that do extra damage making the weapon even more powerful."
+    },
+    {
+        "Name": "One Thousand Voices",
+        "Type": "Fusion Rifle",
+        "Description": "A Heavy Varient of Fusion Rifle That shoots a beam that has delayed explosion where it impacts. This weapon is very powerful however can be a little difficult to get for some people as it drops at the end of the Last Wish Raid"
+    },
+    {
+        "Name": "Sleeper Simulant",
+        "Type": "Linear Fusion Rifle",
+        "Description": "A Quest Reward Exotic Linear Fusion Rifle that is Extremly High Damage and can come in handy throughout the entire game when dealing damage to bosses or other strong enemies"
+    },
+    {
+        "Name": "Whisper Of The Worm",
+        "Type": "Sniper Rifle",
+        "Description": "A Quest Reward Exotic Heavy Sniper that has very high precision dammage and returns ammo to the magazine after 3 precision hits. This weapon is often recomended for dealing boss damage especially in certain raids"
+    },
+    {
+        "Name": "ThunderLord",
+        "Type": "Machine Gun",
+        "Description": "A Solid Quest Reward Machine Gun that is good in alot of situations in PVP or PVE and deals decent damage to some bosses"
+    }
+]

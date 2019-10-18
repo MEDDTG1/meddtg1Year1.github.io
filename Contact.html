@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- this must be the first thing declared in your HTML document. NOTE: this is not an HTML tag -->
+<html>
+  <!-- this tag tells the browser that this is an HTML document -->
+  <head>
+    <!-- this tag provides additional information about this document -->
+    <title>Checkpoint 2 Page 2</title>
+    <!-- this tag defines the name of this document -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <header>
+      <img class="HeadImage" src="assets/img/D2 Cover.jpeg" alt="D2 Cover" />
+      Contact Us
+    </header>
+    <div class="navbar">
+      <!--Start of the navbar-->
+      <a href="Home.html">Home</a
+      ><!--Home Page navbar link-->
+      <a href="Contact.html">Contact Us</a
+      ><!--Contact navbar link-->
+      <div class="dropdown">
+        <button class="dropbtn">
+          Top 5
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="Items1.html">Exotic Weapons</a
+          ><!--Link in dropdown navbar for Items 1-->
+          <a href="Items2.html">Legendary Weapons</a
+          ><!--Link in dropdown navbar for Items 2-->
+        </div>
+      </div>
+    </div>
+    <br />
+    <form class="ContactForm">
+      <label for="Name">Name</label
+      ><!--Label for name input-->
+      <input
+        id="Name"
+        type="text"
+        name="Name"
+      /><!--Area where user inputs their name-->
+      <label for="Email">Email</label>
+      <input id="Email" type="text" name="Email" />
+      <br />
+      <label for="Phone">Phone</label>
+      <input id="Phone" type="text" name="Phone" />
+      <br />
+      <label for="Subject">Subject:</label>
+      <textarea id="Subject" rows="10" cols="50">Enter Comment...</textarea
+      ><!--Text Area for a large user comment-->
+      <input
+        id="SubmitButton"
+        type="submit"
+        value="Submit this form!"
+      /><!--Submit button for contacts-->
+    </form>
+  </body>
+  <script src="/assets/js/Contact.js"></script
+  ><!--Links up the js file-->
+</html>
